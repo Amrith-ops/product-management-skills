@@ -24,3 +24,6 @@
 - [ ] Run `community-discovery` for one distributor vertical (lead hypothesis A) and interview 8-12 owners
 - [ ] Confirm employment-contract limits and Indian tax/export setup with a CA
 - [ ] Re-score candidates with real evidence; consider other low-tech owner-operated domains not yet researched
+
+## Parked ideas
+- [ ] `ideas/distributor-order-entry.md`: AI order entry for small distributors (criteria are flexible, not gates)
