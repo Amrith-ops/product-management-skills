@@ -11,12 +11,12 @@ stakeholders, a team to hand work to. A solo founder starts with none of that.
 ## Gaps, ranked by when they hurt (workflow order)
 | # | Missing skill | Why a solo founder needs it | Closest existing |
 |---|---|---|---|
-| 1 | **Idea selection and scoring** (founder-market fit, pain, reachability, time-to-revenue, kill criteria) | Choosing the wrong idea costs months | `product-strategy-session` (assumes a product exists) |
+| 1 | ~~Idea selection and scoring~~ **added** (`idea-selection`): **Idea selection and scoring** (founder-market fit, pain, reachability, time-to-revenue, kill criteria) | Choosing the wrong idea costs months | `product-strategy-session` (assumes a product exists) |
 | 2 | **Beachhead / ICP selection** (pick one narrow first segment) | Focus beats breadth at zero users | `proto-persona`, `market-landscape-scan` |
 | 3 | ~~Community discovery~~ **added** (`community-discovery`) | No audience to recruit from | `voice-of-customer-miner` (quotes only) |
 | 4 | ~~Research outreach~~ **added** (`research-outreach`) | Strangers will not reply to pitches | none |
-| 5 | **Demand tests**: landing page, waitlist, fake door, pre-sell (paid pilots) | Proves willingness to pay before building | `pol-probe` (feasibility/usability tilt) |
-| 6 | **Pricing research for a new product** (Van Westendorp, Gabor-Granger, pre-sell price ladders) | Price is guessed; no ARPU or churn history yet | `finance-based-pricing-advisor` (needs existing data) |
+| 5 | ~~Demand tests~~ **added** (`demand-test`): **Demand tests**: landing page, waitlist, fake door, pre-sell (paid pilots) | Proves willingness to pay before building | `pol-probe` (feasibility/usability tilt) |
+| 6 | ~~Pricing research~~ **added** (`pricing-research`): **Pricing research for a new product** (Van Westendorp, Gabor-Granger, pre-sell price ladders) | Price is guessed; no ARPU or churn history yet | `finance-based-pricing-advisor` (needs existing data) |
 | 7 | **MVP scoping and build-vs-buy** (concierge/Wizard-of-Oz first, cut list, buy not build) | Prevents 3-month builds for unvalidated ideas | `epic-breakdown-advisor`, `prd-development` |
 | 8 | **AI-build handoff** (turn a PRD into agent-ready specs, acceptance tests, guardrails for vibe coding) | Quality and security of AI-written code is on you | `prd-development`, `user-story` |
 | 9 | **Distribution plan before launch** (one channel, owned audience, content calendar) | Building without distribution is the common failure | `acquisition-channel-advisor` (assumes live channel) |
