@@ -28,3 +28,4 @@
 ## Parked ideas
 - [ ] `ideas/distributor-order-entry.md`: AI order entry for small distributors (criteria are flexible, not gates)
 - [ ] `ideas/greg-isenberg-39-ideas-scorecard.md`: re-score top ideas (#16, #33, plus #5, #18, #38) with real evidence
+- [ ] `docs/B2B_VS_B2C.md`: analyze White Glove Content (needs page details) and run a 2-week demand test in each model
