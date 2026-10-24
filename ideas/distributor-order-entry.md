@@ -13,7 +13,7 @@ Owner-run wholesale distributors, roughly $5-50M revenue, starting with one vert
 - Target: 30-50 clients x $400-650/mo = $16-20k/mo.
 
 ## Criteria are guides, not gates
-The 12 founder criteria are a flexible checklist. This idea scored 19/24; gaps are competition, proof of "hair on fire", and ERP integrations. Do not drop it only for missing a few.
+The 12 founder criteria (`docs/FOUNDER_CRITERIA.md`) are a flexible checklist. This idea scored 19/24; gaps are competition, proof of "hair on fire", and ERP integrations. Do not drop it only for missing a few.
 
 ## Biggest risks
 Funded competitors (WizCommerce, Comena, Y Meadows); wrong-SKU errors (needs review step); reaching distributors; support load next to a 9-5.

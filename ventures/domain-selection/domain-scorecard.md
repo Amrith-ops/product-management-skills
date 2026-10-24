@@ -2,6 +2,8 @@
 Skill: `idea-selection` (adapted: constraints as gates). Date: 2026-10-24.
 Evidence: web search summaries, mostly vendor marketing. Scores are my judgment, not validated. 🔶 = assumption, 🔵 = open question.
 
+Full original criteria: `docs/FOUNDER_CRITERIA.md`. The table rows below are shortened.
+
 ## 1. Where the constraints conflict (read first)
 | Constraint | Issue | Resolution |
 |---|---|---|
