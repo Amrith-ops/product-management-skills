@@ -23,7 +23,7 @@ Full problem and value proposition: `ideas/distributor-order-desk.md`.
 ## Sprint (14 days, about 10 hours a week)
 | Days | Action | Pass |
 |---|---|---|
-| 1-4 | **Reach test:** pick one vertical; find 30 owners or general managers at $5-50M distributors (LinkedIn, association member lists, buying-group directories); send 20 personal messages that ask one question: "How many orders a day come by email or text, and who keys them?" | At least 5 replies (25%), 3 agree to talk |
+| 1-4 | **Reach test (founder has 4 years of dev experience and no distributor contacts, so run two tracks):** (a) cold:  pick one vertical; find 30 owners or general managers at $5-50M distributors (LinkedIn, association member lists, buying-group directories); send 20 personal messages that ask one question: "How many orders a day come by email or text, and who keys them?" | At least 5 replies (25%), 3 agree to talk. (b) warm: contact 5 ERP consultants or resellers who serve distributors and ask for 2 introductions each. |
 | 5-10 | 8 conversations: orders per day, minutes per order, error cost, ERP in use, who approves software, what they pay now | Median 25+ orders a day keyed by hand |
 | 8-14 | 3 paid pilots: you process one week of real orders for $300-$500 | At least 2 pay, accuracy of 95%+ after review |
 

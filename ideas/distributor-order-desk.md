@@ -68,7 +68,18 @@ For owner-run distributors that lose hours each day retyping customer orders, th
 | Learns each customer's wording over time | Switching later means losing that memory | Grows with use (the data moat) |
 Until pilots prove accuracy, the real pitch is price, speed to start and attention, not technology.
 
-**Why you (founder) personally.** Fill in the 🔵 items: your skills and years of experience; anyone you know at a distributor; any operations, ERP or data-entry work. Practical fit: low costs from India, and US business hours fall in your evenings.
+**Why you (founder) personally.** Known facts: 4 years of software development experience; no distributor contacts; no stated operations, ERP or data-entry background; a 9-5 job; India-based (low costs, US mornings fall in your evenings).
+- **What 4 years of dev gives you:** you can build the core reliably (document and image extraction, a review screen, data models, uptime) and debug it yourself. That is a real advantage over a non-technical operator. 🔶
+- **What is missing:** domain knowledge (how distributors name items, units, pricing rules) and access to buyers. Both are the main risks, not the code.
+- **So the honest "why me" is:** a builder who can iterate fast, who picks one vertical, learns it through pilots and keeps the price low. Not a domain expert yet.
+
+### Closing the access and domain gaps (borrow what you do not have)
+| Gap | Ways to close it |
+|---|---|
+| No distributor contacts | (1) Cold LinkedIn outreach to owners, customer-service and operations managers at distributors in one vertical, using the one-question message. (2) **Referral partners who already serve distributors:** ERP consultants and resellers for the systems small distributors use (they know many owners and see this pain), offered a referral fee. (3) Buying-group and trade-association events and member directories. (4) Offer one "design partner" distributor a free first month in return for access to their real orders and feedback. |
+| No domain knowledge | (1) Pay 3-5 hourly calls with ex-customer-service, inside-sales or operations people from distributors (found through LinkedIn); ask how orders flow, what goes wrong, item naming. (2) Recruit one industry insider as an advisor, paid or with a small share. (3) Learn the vertical's catalog and vocabulary from public product catalogs. |
+| Trust | A design partner and a written accuracy promise with a credit for errors. |
+Both gaps make this idea riskier than it looked: you can build it, but you start without buyers or vocabulary. That is why the first step is a reach test, not code.
 
 ## 7. How the "human review" works for a solo founder with a 9-5
 Doing every review yourself in real time does not work: US business hours run roughly 6:30 pm to 2:30 am India time, and you cannot check orders all day. Design it so your review time stays small:
