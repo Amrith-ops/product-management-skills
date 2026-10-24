@@ -1,6 +1,10 @@
 # TrustMRR scan: what B2B and B2C businesses with verified revenue look like
 Date: 2026-10-24. Purpose: check the B2B vs B2C decision (`docs/B2B_VS_B2C.md`) against real, payment-verified businesses.
 
+![Visual summary](insights.png)
+
+*Source file: `insights.html` (open in a browser; hover bars for values).*
+
 ## Method
 - Source: public TrustMRR pages read with `curl` (scripts in this folder: `crawl.py`, `parse.py`). TrustMRR says revenue, MRR and subscriber counts come from the startup's payment provider via API key; descriptions, pricing text, team size and channel tags are founder-written.
 - Sample: 307 startups found on the first page (30 each) of 25 marketing-channel pages, then each startup's markdown profile. This is **not a random sample**: it is biased toward founders who list on TrustMRR (online, tech-savvy, many for sale) and toward businesses that tagged a channel. Low-tech offline-facing B2B (like distributors) is probably under-represented.
@@ -43,7 +47,7 @@ Filter: B2B or Both, team of 1, 2-5 or not stated, MRR $5k-$120k, 8-300 subscrib
 | FiveML LTD | B2B | 1 person | $5,062 | 22 | $230 | 2025-04-07 | FiveML LTD provides LVI, a LinkedIn automation platform that helps businesses generate leads by automating pro | $149.99 per user / month with discounts for additional users and prepa | cold-email, linkedin |
 
 ## Patterns (observations, not proof)
-1. **13 of the 15 sell marketing, sales or growth tools or services** (lead generation, outreach, SEO/AI-search, social growth, website-visitor identification). Customers pay $250-$1,900 a month for something that brings them customers. I found no cost-saving back-office tools in this cohort, but the sample is biased toward online-marketing founders.
+1. **13 of the 15 sell marketing, sales or growth tools or services** (lead generation, outreach, SEO/AI-search, social growth, website-visitor identification). Revenue per customer in this group runs from $105 to $1,960 a month (median $413); customers pay for something that brings them customers. I found no cost-saving back-office tools in this cohort, but the sample is biased toward online-marketing founders.
 2. **Pricing ladders are common**: three tiers such as $79/$249/$799 or $99/$189/$997; month-to-month.
 3. **Channels:** across B2B/Both businesses with $10k+ MRR the most-tagged channels were word of mouth (12), SEO (11), Twitter/X (10), LinkedIn (9), YouTube (9), content marketing and blog (8 each), meta ads and newsletter (7 each), cold email and partnerships (6 each). In the 15-business cohort, LinkedIn, cold DM, partnerships and Twitter/X recur. This is self-tagged and shows what founders report, not what produced the revenue.
 4. **High-ACV services exist at small scale:** one business sells marketing services at $3,999 a month to 75 clients (about $118k MRR). It is labor-heavy and its team size is not stated.
@@ -51,7 +55,7 @@ Filter: B2B or Both, team of 1, 2-5 or not stated, MRR $5k-$120k, 8-300 subscrib
 6. **Margins** where stated: 65-91% for most; one at 30%, one at 35%.
 
 ## What this means for the founder
-- It supports the earlier conclusion: for 30-50 clients at $400-650, B2B (or prosumer) tools at $250-$1,900 ARPU are common; consumer needs thousands of subscribers.
+- It supports the earlier conclusion: for 30-50 clients at $400-650, B2B (or prosumer) tools at a median of about $413 ARPU are common; consumer needs thousands of subscribers.
 - **New hypothesis to test:** customers pay more readily for tools that bring revenue or leads than for cost-saving automation. This does not mean the distributor idea fails; it means the pitch should be framed around money gained (faster quoting, more orders handled, fewer lost orders), and the interview must test it. 🔵
 - The people on TrustMRR are mostly in the online-marketing ecosystem, so this is weak evidence about low-tech owner-operated businesses.
 - Next checks: read the 3-4 closest businesses' public marketing (pricing pages, how they find customers); search whether any listed business sells back-office tools to non-tech owners; then continue the two-week `demand-test` plan.

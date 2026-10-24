@@ -1,0 +1,83 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TrustMRR Insights</title>
+<style>
+:root{--surface:#fcfcfb;--card:#ffffff;--ink:#0b0b0b;--ink2:#52514e;--muted:#6f6e69;--grid:#e6e5e0;--accent:#2a78d6;--gray:#b4b3ab}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--surface:#1a1a19;--card:#222221;--ink:#f0efec;--ink2:#c3c2b7;--muted:#a3a299;--grid:#33332f;--accent:#3987e5;--gray:#5d5c56}}
+:root[data-theme="dark"]{--surface:#1a1a19;--card:#222221;--ink:#f0efec;--ink2:#c3c2b7;--muted:#a3a299;--grid:#33332f;--accent:#3987e5;--gray:#5d5c56}
+*{box-sizing:border-box}body{margin:0;background:var(--surface);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.wrap{width:1400px;max-width:100%;margin:0 auto;padding:36px 32px 28px}
+h1{font-size:30px;margin:0 0 6px;letter-spacing:-.3px}.sub{color:var(--ink2);font-size:15px;margin:0 0 22px;max-width:1100px;line-height:1.45}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:16px}
+.card{background:var(--card);border:1px solid var(--grid);border-radius:12px;padding:18px 20px}
+.kpi .v{font-size:44px;font-weight:700;letter-spacing:-1px;line-height:1.05}.kpi .l{color:var(--ink2);font-size:14px;margin-top:6px;line-height:1.35}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+h2{font-size:17px;margin:0 0 4px}.note{color:var(--muted);font-size:13px;margin:0 0 14px;line-height:1.4}
+.row{display:grid;grid-template-columns:210px 1fr 250px;align-items:center;gap:10px;margin:7px 0}
+.row.s{grid-template-columns:150px 1fr 40px;margin:5px 0}
+.rl{font-size:13.5px;color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rv{font-size:13px;color:var(--ink);white-space:nowrap}.track{height:18px}
+.bar{height:100%;border-radius:0 4px 4px 0;min-width:2px}.bar.grow{background:var(--accent)}.bar.other,.bar.c{background:var(--gray)}
+.pair .row{grid-template-columns:90px 1fr 120px;margin:12px 0}.pair .track{height:30px}.pair .rv{font-size:15px;font-weight:600}
+.legend{display:flex;gap:18px;font-size:13px;color:var(--ink2);margin:0 0 10px}.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+.so{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.so .card{padding:16px 18px}.so b{display:block;font-size:15px;margin-bottom:4px}.so span{color:var(--ink2);font-size:13.5px;line-height:1.45}
+.foot{color:var(--muted);font-size:12px;margin-top:14px;line-height:1.5}
+details{margin-top:10px;font-size:12px;color:var(--ink2)}
+</style></head><body><div class="wrap">
+<h1>Fewer, higher-paying customers: what verified B2B revenue looks like</h1>
+<p class="sub">A scan of 307 businesses with payment-verified revenue on TrustMRR (24 Oct 2026). B2B businesses at $10k+ MRR needed roughly 9x fewer customers than B2C ones. Not a random sample: it skews to online, tech-savvy founders.</p>
+<div class="kpis">
+<div class="card kpi"><div class="v">9x</div><div class="l">fewer paying customers in B2B than B2C at $10k+ MRR (213 vs 1,913, medians)</div></div>
+<div class="card kpi"><div class="v">$105</div><div class="l">median revenue per B2B subscriber per month, vs $24 in B2C</div></div>
+<div class="card kpi"><div class="v">13 of 15</div><div class="l">businesses near the founder's target sell marketing, sales or growth tools</div></div>
+<div class="card kpi"><div class="v">$413</div><div class="l">median monthly revenue per customer in that group (range $105 to $1,960)</div></div>
+</div>
+<div class="grid2">
+<div class="card pair"><h2>Customers needed to reach $10k+ MRR</h2><p class="note">Median paying subscribers among businesses with MRR of $10k or more (B2B n=21, B2C n=25).</p>
+<div class="row" title="B2B: median 213 subscribers"><div class="rl">B2B</div><div class="track"><div class="bar grow" style="width:11.1%"></div></div><div class="rv">213</div></div>
+<div class="row" title="B2C: median 1,913 subscribers"><div class="rl">B2C</div><div class="track"><div class="bar c" style="width:100%"></div></div><div class="rv">1,913</div></div>
+<h2 style="margin-top:22px">Revenue per subscriber per month</h2><p class="note">Median ARPU, same groups.</p>
+<div class="row" title="B2B: median about $105"><div class="rl">B2B</div><div class="track"><div class="bar grow" style="width:100.0%"></div></div><div class="rv">$105</div></div>
+<div class="row" title="B2C: median about $24"><div class="rl">B2C</div><div class="track"><div class="bar c" style="width:22.9%"></div></div><div class="rv">$24</div></div>
+</div>
+<div class="card"><h2>Channels tagged by B2B / Both businesses at $10k+ MRR</h2><p class="note">Number of the 33 businesses that tagged each channel (founders self-tag; this shows what they report, not what produced revenue).</p>
+<div class="row s" title="Word of mouth: tagged by 12 of 33 businesses"><div class="rl">Word of mouth</div><div class="track"><div class="bar grow" style="width:100.0%"></div></div><div class="rv">12</div></div>
+<div class="row s" title="SEO: tagged by 11 of 33 businesses"><div class="rl">SEO</div><div class="track"><div class="bar grow" style="width:91.7%"></div></div><div class="rv">11</div></div>
+<div class="row s" title="Twitter / X: tagged by 10 of 33 businesses"><div class="rl">Twitter / X</div><div class="track"><div class="bar grow" style="width:83.3%"></div></div><div class="rv">10</div></div>
+<div class="row s" title="LinkedIn: tagged by 9 of 33 businesses"><div class="rl">LinkedIn</div><div class="track"><div class="bar grow" style="width:75.0%"></div></div><div class="rv">9</div></div>
+<div class="row s" title="YouTube: tagged by 9 of 33 businesses"><div class="rl">YouTube</div><div class="track"><div class="bar grow" style="width:75.0%"></div></div><div class="rv">9</div></div>
+<div class="row s" title="Content marketing: tagged by 8 of 33 businesses"><div class="rl">Content marketing</div><div class="track"><div class="bar grow" style="width:66.7%"></div></div><div class="rv">8</div></div>
+<div class="row s" title="Blog: tagged by 8 of 33 businesses"><div class="rl">Blog</div><div class="track"><div class="bar grow" style="width:66.7%"></div></div><div class="rv">8</div></div>
+<div class="row s" title="Meta ads: tagged by 7 of 33 businesses"><div class="rl">Meta ads</div><div class="track"><div class="bar grow" style="width:58.3%"></div></div><div class="rv">7</div></div>
+<div class="row s" title="Newsletter: tagged by 7 of 33 businesses"><div class="rl">Newsletter</div><div class="track"><div class="bar grow" style="width:58.3%"></div></div><div class="rv">7</div></div>
+<div class="row s" title="Cold email: tagged by 6 of 33 businesses"><div class="rl">Cold email</div><div class="track"><div class="bar grow" style="width:50.0%"></div></div><div class="rv">6</div></div>
+<div class="row s" title="Partnerships: tagged by 6 of 33 businesses"><div class="rl">Partnerships</div><div class="track"><div class="bar grow" style="width:50.0%"></div></div><div class="rv">6</div></div>
+<div class="row s" title="Facebook: tagged by 6 of 33 businesses"><div class="rl">Facebook</div><div class="track"><div class="bar grow" style="width:50.0%"></div></div><div class="rv">6</div></div>
+</div>
+</div>
+<div class="card" style="margin-bottom:14px"><h2>The 15 businesses closest to the founder's target</h2>
+<p class="note">B2B or Both, small team, 8–300 subscribers, at least $100 per subscriber. Bar = current MRR; label = MRR · subscribers · revenue per subscriber.</p>
+<div class="legend"><span><i style="background:var(--accent)"></i>Marketing, sales or growth tool/service</span><span><i style="background:var(--gray)"></i>Other</span></div>
+<div class="row" title="Windmill Growth: MRR $118,447, 75 subscribers, $1,579 per subscriber"><div class="rl">Windmill Growth</div><div class="track"><div class="bar grow" style="width:100.0%"></div></div><div class="rv">$118.4k · 75 subs · $1,579/mo each</div></div>
+<div class="row" title="Rank Prompt: MRR $43,721, 213 subscribers, $205 per subscriber"><div class="rl">Rank Prompt</div><div class="track"><div class="bar grow" style="width:36.9%"></div></div><div class="rv">$43.7k · 213 subs · $205/mo each</div></div>
+<div class="row" title="unfair.so: MRR $32,273, 44 subscribers, $733 per subscriber"><div class="rl">unfair.so</div><div class="track"><div class="bar grow" style="width:27.2%"></div></div><div class="rv">$32.3k · 44 subs · $733/mo each</div></div>
+<div class="row" title="Launch Club: MRR $32,050, 17 subscribers, $1,885 per subscriber"><div class="rl">Launch Club</div><div class="track"><div class="bar grow" style="width:27.1%"></div></div><div class="rv">$32.0k · 17 subs · $1,885/mo each</div></div>
+<div class="row" title="Sbl: MRR $30,698, 62 subscribers, $495 per subscriber"><div class="rl">Sbl</div><div class="track"><div class="bar grow" style="width:25.9%"></div></div><div class="rv">$30.7k · 62 subs · $495/mo each</div></div>
+<div class="row" title="Pushouse: MRR $26,750, 255 subscribers, $105 per subscriber"><div class="rl">Pushouse</div><div class="track"><div class="bar grow" style="width:22.6%"></div></div><div class="rv">$26.8k · 255 subs · $105/mo each</div></div>
+<div class="row" title="TrustMRR: MRR $25,483, 13 subscribers, $1,960 per subscriber"><div class="rl">TrustMRR</div><div class="track"><div class="bar other" style="width:21.5%"></div></div><div class="rv">$25.5k · 13 subs · $1,960/mo each</div></div>
+<div class="row" title="AppBird AI: MRR $25,091, 63 subscribers, $398 per subscriber"><div class="rl">AppBird AI</div><div class="track"><div class="bar grow" style="width:21.2%"></div></div><div class="rv">$25.1k · 63 subs · $398/mo each</div></div>
+<div class="row" title="Backlinker AI: MRR $20,650, 50 subscribers, $413 per subscriber"><div class="rl">Backlinker AI</div><div class="track"><div class="bar grow" style="width:17.4%"></div></div><div class="rv">$20.6k · 50 subs · $413/mo each</div></div>
+<div class="row" title="Stealth: AI sales setter: MRR $19,033, 26 subscribers, $732 per subscriber"><div class="rl">Stealth: AI sales setter</div><div class="track"><div class="bar grow" style="width:16.1%"></div></div><div class="rv">$19.0k · 26 subs · $732/mo each</div></div>
+<div class="row" title="Xagio: MRR $14,106, 122 subscribers, $116 per subscriber"><div class="rl">Xagio</div><div class="track"><div class="bar grow" style="width:11.9%"></div></div><div class="rv">$14.1k · 122 subs · $116/mo each</div></div>
+<div class="row" title="WNOG MEDIA: MRR $8,494, 66 subscribers, $129 per subscriber"><div class="rl">WNOG MEDIA</div><div class="track"><div class="bar grow" style="width:7.2%"></div></div><div class="rv">$8.5k · 66 subs · $129/mo each</div></div>
+<div class="row" title="Maverick Intelligence.: MRR $5,834, 23 subscribers, $254 per subscriber"><div class="rl">Maverick Intelligence.</div><div class="track"><div class="bar grow" style="width:4.9%"></div></div><div class="rv">$5.8k · 23 subs · $254/mo each</div></div>
+<div class="row" title="Formo Analytics: MRR $5,240, 10 subscribers, $524 per subscriber"><div class="rl">Formo Analytics</div><div class="track"><div class="bar other" style="width:4.4%"></div></div><div class="rv">$5.2k · 10 subs · $524/mo each</div></div>
+<div class="row" title="FiveML: MRR $5,062, 22 subscribers, $230 per subscriber"><div class="rl">FiveML</div><div class="track"><div class="bar grow" style="width:4.3%"></div></div><div class="rv">$5.1k · 22 subs · $230/mo each</div></div>
+</div>
+<div class="so">
+<div class="card"><b>1. Direction holds</b><span>B2B or prosumer at $400–650 per client for 30–50 clients matches what these businesses look like. Consumer needs thousands of subscribers.</span></div>
+<div class="card"><b>2. New hypothesis</b><span>Buyers may pay more for tools that bring revenue or leads than for cost-saving automation. Test it in interviews; frame offers around money gained.</span></div>
+<div class="card"><b>3. Read with care</b><span>Sample is biased toward online marketing founders; low-tech offline businesses (like distributors) are under-represented. Channels are self-tagged.</span></div>
+</div>
+<p class="foot">Source: TrustMRR public profiles (revenue, MRR and subscribers verified by payment provider via API; descriptions, pricing, team size and channels written by founders). Full method and table: research/trustmrr/analysis.md.</p>
+<details><summary>Data table</summary><p>B2B median subscribers 213, ARPU about $105 (n=21). B2C median subscribers 1,913, ARPU about $24 (n=25). Cohort and channel values are listed in the charts above.</p></details>
+</div></body></html>
