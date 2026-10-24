@@ -30,3 +30,4 @@
 - [ ] `ideas/greg-isenberg-39-ideas-scorecard.md`: re-score top ideas (#16, #33, plus #5, #18, #38) with real evidence
 - [ ] `docs/B2B_VS_B2C.md`: White Glove Content analyzed; next: find the acquisition channels of similar TrustMRR businesses, then run a 2-week demand test in each model
 - [ ] `research/trustmrr/analysis.md`: DONE in `research/trustmrr/closest-businesses-and-back-office.md`; next: concierge test of an 'order desk as a service' with 3 pilot distributors
+- [ ] `research/trustmrr/stats-page-insights.md`: confirm whether milestone and distribution figures are cumulative or monthly (check TrustMRR docs or ask the maker)
