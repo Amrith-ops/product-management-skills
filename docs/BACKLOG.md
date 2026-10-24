@@ -1,6 +1,6 @@
 # Backlog
 
-**Current decision:** see `ideas/DECISION.md` (Trustreply 14-day concierge test; fallback distributor order desk).
+**Current decision:** see `ideas/DECISION.md` (v3: customer-first sprint with high-ticket home-services owners; jan-san parked).
 
 
 ## Skills to write (shown as "(planned)" in `docs/workflow.png`)
@@ -39,3 +39,4 @@
 - [ ] `ideas/importer-tariff-desk.md`: verified once; weaker (15 of 24); keep only as a reference unless the jan-san test fails
 - [x] `ideas/horse-leads.md`: checked, not recommended (about 13 of 24)
 - [ ] `ideas/manufacturing-sector.md`: second fallback (paper-to-data for small shops); verify before use
+- [x] `ideas/cmmc-compliance.md`: checked, not recommended (about 14 of 24)
