@@ -14,6 +14,8 @@ For non-technical owners the "I can vibe-code this in a week" risk mostly disapp
 Honest limit: the moat is thin at the start and strengthens with each client.
 
 ## Decision
+Full problem and value proposition: `ideas/distributor-order-desk.md`.
+
 **Primary bet: an order desk for small owner-run distributors, in one vertical, sold service-first** (owner forwards orders by email, text or photo; you return clean order entries, with AI doing most of the work). Price test: $400-$800 a month per distributor. Differentiate on one vertical, human review, a flat price and zero integration, not on features.
 **Why still this one:** non-technical buyers, a quantified cost per order (vendor claim of $10-$12 per order, unverified), low legal risk, no field work, buildable without ERP integration, and a data asset that grows.
 **Biggest unknown: can you reach these owners?** I found trade associations (NAW, aimed mostly at larger firms; buying groups such as Affiliated Distributors for construction and industrial supply) but no community of small distributor owners. So the first test is reach, not product.
