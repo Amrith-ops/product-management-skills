@@ -48,20 +48,50 @@ For owner-run distributors that lose hours each day retyping customer orders, th
 - **Vendors are launching:** WizCommerce launched an AI order-entry tool in June 2026 ✔; Comena (YC) targets distributors and manufacturers ✔. That signals demand and also competition.
 - **Customers will not change:** vendors argue many customers will not move to portals or EDI, which is why AI intake is used ✔ (vendor argument).
 - **Labor pressure:** hiring and wage costs push owners to automate. 🔶
-- **Solo-friendly:** AI-assisted coding and cheap model access let one person build and run this. ✔ (consistent with the founder's constraints)
+- **Solo-friendly build:** AI-assisted coding and cheap model access let one person build the software. Running the review is the harder part (see section 7).
 - 🔵 Missing: evidence from owners that this is a priority this year.
 
-## 6. Why me
-Fill in the founder's real strengths; the parts marked 🔵 need your answer.
-- **Builder:** comfortable building with AI-assisted coding and shipping fast. 🔵 confirm your skills and years of experience.
-- **Cost base and hours:** operating from India keeps costs low (target under INR 50k a month) and US mornings fall in your evenings, so an asynchronous service fits next to a 9-5. 🔶
-- **Domain experience:** none known in distribution. 🔵 Do you know anyone who runs or works at a distributor, or have you done operations, ERP or data-entry work? This is the biggest gap; the first interviews and a pilot with one friendly distributor reduce it.
-- **Unfair advantage:** none yet. It would come from one vertical's catalog knowledge and accumulated customer mappings.
+## 6. Why would a customer choose me (and not their CRM, ERP or the AI vendors)?
+**Why their existing software does not already solve it**
+- **CRM** (for example HubSpot, Salesforce): tracks leads, deals and contacts. It does not read a photo of a handwritten parts list and turn it into order lines. 🔶 (general knowledge; confirm in interviews)
+- **ERP / accounting system** (for example distribution ERPs, QuickBooks): stores orders, prices and stock, but expects the order to arrive already structured. Someone still types it in. Some offer customer portals or EDI, which small customers rarely use. ✔ (vendor argument that customers will not change how they order)
+- **The missing step** is the translation from a messy message into a clean order, before it reaches the ERP. That is the gap.
+
+**Honest answer on "why me" today: there is no reason yet.** You have no track record, brand or distribution experience. Funded vendors with more money can add this feature. The reasons a customer could pick you must be earned and made specific:
+| Possible reason | Why it can matter | Status |
+|---|---|---|
+| One vertical, deeply known (their items, units, pack sizes) | Generic tools guess wrong on industry terms | Built through pilots 🔶 |
+| Starts in 48 hours, no integration, no contract | Enterprise vendors need demos, setup and annual deals | Plausible 🔶 |
+| Flat low price | Vendors price for bigger firms | Unverified 🔵 |
+| Accuracy promise with a credit for errors | Owners fear wrong shipments | Must be earned with data 🔵 |
+| Founder-led attention: the owner can call you | Small owners value reachability | True from day one |
+| Learns each customer's wording over time | Switching later means losing that memory | Grows with use (the data moat) |
+Until pilots prove accuracy, the real pitch is price, speed to start and attention, not technology.
+
+**Why you (founder) personally.** Fill in the 🔵 items: your skills and years of experience; anyone you know at a distributor; any operations, ERP or data-entry work. Practical fit: low costs from India, and US business hours fall in your evenings.
+
+## 7. How the "human review" works for a solo founder with a 9-5
+Doing every review yourself in real time does not work: US business hours run roughly 6:30 pm to 2:30 am India time, and you cannot check orders all day. Design it so your review time stays small:
+1. **The distributor's own clerk approves.** AI drafts the order; their rep checks and clicks approve in seconds instead of typing for minutes. That is their "human in the loop", not yours.
+2. **You only handle exceptions:** items the system cannot match with confidence. Teach it once and it remembers (the data moat), so exceptions shrink over time.
+3. **Two fixed review windows a day** (for example in your evening), with an agreed turnaround, not instant.
+4. **Pilots first, by hand.** With 2-3 pilots the volume is small enough to do manually while you learn what goes wrong.
+5. **Later, a part-time trained reviewer** (hired and supervised by you) once accuracy and volume justify it. Watch data-privacy and quality risk.
+
+**Illustrative capacity maths (assumptions, not data)**
+| Scenario | Orders a day | Share needing your review | Minutes per reviewed order | Your daily time |
+|---|---|---|---|---|
+| 3 pilots, early | 90 | 40% | 2 | about 72 min |
+| 3 pilots, after learning | 90 | 15% | 1 | about 14 min |
+| 10 clients, mature | 300 | 10% | 1 | about 30 min |
+| 10 clients, if review stays at 40% | 300 | 40% | 2 | about 4 hours (not workable) |
+So it works only if the share needing review falls quickly. That is the main thing the pilots must measure. If it does not fall, either price higher, hire a reviewer, or drop the idea.
 
 ## What would make this wrong
 - Owners say entry takes minutes a day, not hours.
 - Errors are rare or cheap.
 - They will not send orders to an outside service (trust, speed).
+- The share of orders needing your review does not fall below about 15%, so review cannot fit around a 9-5.
 - Their ERP or workflow needs live integration before any value shows.
 - Competitors already serve their size at a low price.
 
