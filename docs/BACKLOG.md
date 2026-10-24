@@ -32,3 +32,4 @@
 - [ ] `research/trustmrr/analysis.md`: DONE in `research/trustmrr/closest-businesses-and-back-office.md`; next: concierge test of an 'order desk as a service' with 3 pilot distributors
 - [ ] `research/trustmrr/stats-page-insights.md`: confirm whether milestone and distribution figures are cumulative or monthly (check TrustMRR docs or ask the maker)
 - [ ] `research/trustmrr/highest-paying-categories.md`: score 'AEO for owner-operated businesses in one vertical' against the 12 criteria; test revenue-outcome framing for the distributor idea in interviews
+- [ ] `research/pricing-outside-trustmrr.md`: find primary pricing data (buyer surveys, SaaS Capital/KeyBanc/ICONIQ/Tidemark); test $400-$800/mo for Trustreply-style compliance tooling
