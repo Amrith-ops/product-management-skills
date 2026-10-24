@@ -29,4 +29,4 @@
 - [ ] `ideas/distributor-order-entry.md`: AI order entry for small distributors (criteria are flexible, not gates)
 - [ ] `ideas/greg-isenberg-39-ideas-scorecard.md`: re-score top ideas (#16, #33, plus #5, #18, #38) with real evidence
 - [ ] `docs/B2B_VS_B2C.md`: White Glove Content analyzed; next: find the acquisition channels of similar TrustMRR businesses, then run a 2-week demand test in each model
-- [ ] `research/trustmrr/analysis.md`: study pricing pages and channels of the closest 3-4 businesses; look for back-office tools sold to non-tech owners
+- [ ] `research/trustmrr/analysis.md`: DONE in `research/trustmrr/closest-businesses-and-back-office.md`; next: concierge test of an 'order desk as a service' with 3 pilot distributors
