@@ -37,3 +37,4 @@
 - [ ] `research/trustmrr/highest-paying-categories.md`: score 'AEO for owner-operated businesses in one vertical' against the 12 criteria; test revenue-outcome framing for the distributor idea in interviews
 - [ ] `research/pricing-outside-trustmrr.md`: find primary pricing data (buyer surveys, SaaS Capital/KeyBanc/ICONIQ/Tidemark); test $400-$800/mo for Trustreply-style compliance tooling
 - [ ] `ideas/importer-tariff-desk.md`: verified once; weaker (15 of 24); keep only as a reference unless the jan-san test fails
+- [x] `ideas/horse-leads.md`: checked, not recommended (about 13 of 24)
