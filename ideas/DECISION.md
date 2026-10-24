@@ -16,6 +16,8 @@ Honest limit: the moat is thin at the start and strengthens with each client.
 ## Decision
 Full problem and value proposition: `ideas/distributor-order-desk.md`.
 
+**Chosen vertical: janitorial and sanitation supply (details: `ideas/janitorial-vertical.md`).**
+
 **Primary bet: an order desk for small owner-run distributors, in one vertical, sold service-first** (owner forwards orders by email, text or photo; you return clean order entries, with AI doing most of the work). Price test: $400-$800 a month per distributor. Differentiate on one vertical, human review, a flat price and zero integration, not on features.
 **Why still this one:** non-technical buyers, a quantified cost per order (vendor claim of $10-$12 per order, unverified), low legal risk, no field work, buildable without ERP integration, and a data asset that grows.
 **Biggest unknown: can you reach these owners?** I found trade associations (NAW, aimed mostly at larger firms; buying groups such as Affiliated Distributors for construction and industrial supply) but no community of small distributor owners. So the first test is reach, not product.
@@ -35,6 +37,6 @@ Switch the buyer community to **trades business owners** (roofing, HVAC, plumbin
 - If both paths fail their gates, stop and review the criteria, not the idea list.
 
 ## Next actions
-1. Choose the vertical (suggestion: the one where you can find owners fastest; decide in the first hour).
+1. Vertical chosen: jan-san. Build the LinkedIn list and send the first messages (`ideas/janitorial-vertical.md`).
 2. Draft the one-question message, a tracking sheet, and the pilot offer.
 3. Check employment contract and Indian export-tax setup before taking payment (CA).

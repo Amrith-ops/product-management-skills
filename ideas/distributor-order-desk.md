@@ -6,7 +6,7 @@ Related: `ideas/DECISION.md` (the 14-day test), `ideas/distributor-order-entry.m
 Small family-owned distributors get customer orders as texts, photos of handwritten lists, voicemails, emails and PDFs, and staff retype each one into the system. It is slow and error-prone. We offer an order desk: the distributor sends us the messy order any way it arrives; AI reads it and a person checks it; we return a clean, correct order ready to enter, for a flat monthly fee.
 
 ## 1. Who is my customer
-**Company:** owner-run (often family-owned) wholesale distributors, roughly $5-50M revenue, 10-100 employees, in **one vertical** (to choose: foodservice, plumbing/HVAC supply, building supply, industrial/MRO, or janitorial). 🔶
+**Company:** owner-run (often family-owned) wholesale distributors, roughly $5-50M revenue, 10-100 employees, in **one vertical: janitorial and sanitation supply** (see `ideas/janitorial-vertical.md`). 🔶
 **Buyer (decides and pays):** owner or general manager. **Users:** customer-service and inside-sales reps who key orders; operations manager who sees the errors.
 **What defines them:** orders arrive in mixed formats from many small customers (contractors, restaurants, shops); they run an ERP or accounting system but customers will not change how they order; they are not software-minded; sales cycles are short because the owner decides. 🔶
 **Where to find them:** trade associations and buying groups (for example NAW; Affiliated Distributors for construction and industrial supply), LinkedIn. ✔ these exist; 🔵 no active community of small distributor owners found yet, so reach is unproven.
