@@ -10,6 +10,7 @@ Security-questionnaire autopilot for small B2B SaaS companies. Worked example of
 | 0 | `00-idea-selection.md` | done |
 | 1 | `01-problem.md` | done (draft) |
 | 2 | `02-discovery.md` | plan done, **interviews not yet run** |
+| 2a | `02a-community-research.md` | done, **paraphrased evidence only, fetches blocked** |
 | 3 | `03-market.md` | draft, **needs live web verification** |
 | 4 | `04-positioning.md` | done (draft) |
 | 5 | `05-strategy.md` | done (draft) |
