@@ -24,6 +24,11 @@ discovery evidence from at least a few real sources.
 - Extra: `voice-of-customer-miner` for public reviews/forums when interviews are slow
 - Output: `docs/discovery.md` (interview plan, findings, validated/invalidated hypotheses)
 
+### 2a. Find your audience before interviews
+- Skills: `community-discovery`, then `research-outreach` (original to this repo)
+- Output: `docs/community-map.md`, lead sheet, post experiment log
+- Rule: mark evidence as verbatim, paraphrase, or unverified; never present a summary as a quote.
+
 ### 3. Size and scan the market
 - Skills: `tam-sam-som-calculator`, `market-landscape-scan`, `competitive-research-snapshot`, `porters-five-forces`
 - Output: `docs/market.md`
