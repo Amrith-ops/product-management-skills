@@ -19,3 +19,8 @@
 ## Housekeeping
 - [ ] Move `docs/workflow.svg` generator script into the repo
 - [ ] Decide on a license for the original skills
+
+## Domain selection (`ventures/domain-selection/domain-scorecard.md`)
+- [ ] Run `community-discovery` for one distributor vertical (lead hypothesis A) and interview 8-12 owners
+- [ ] Confirm employment-contract limits and Indian tax/export setup with a CA
+- [ ] Re-score candidates with real evidence; consider other low-tech owner-operated domains not yet researched
