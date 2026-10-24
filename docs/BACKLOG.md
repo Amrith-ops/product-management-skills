@@ -1,5 +1,8 @@
 # Backlog
 
+**Current decision:** see `ideas/DECISION.md` (Trustreply 14-day concierge test; fallback distributor order desk).
+
+
 ## Skills to write (shown as "(planned)" in `docs/workflow.png`)
 - [ ] `ai-build-handoff`: turn a PRD into agent-ready specs, acceptance tests, guardrails for AI-assisted coding
 - [ ] `launch-playbook`: Show HN, Product Hunt, communities, email list
